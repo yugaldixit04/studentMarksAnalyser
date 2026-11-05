@@ -1,7 +1,5 @@
 # studentMarksAnalyser
 
-# Student Marks Analyser
-
 A modular, console-based JavaScript project designed to manage student data, compute academic metrics, and generate clean, formatted performance reports.
 
 ## Features
